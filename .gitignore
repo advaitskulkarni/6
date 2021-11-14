@@ -9,6 +9,8 @@
 *.o
 *.obj
 
+a1.html
+
 # Precompiled Headers
 *.gch
 *.pch
